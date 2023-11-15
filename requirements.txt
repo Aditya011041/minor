@@ -1,2 +1,8 @@
 Flask
+numpy
+Pillow
+opencv-python
 tensorflow
+keras
+bcrypt
+Flask-SQLAlchemy
